@@ -552,7 +552,7 @@ p{ margin:0; }
   font-weight:600;
   font-size:14px;
 }
-.timing-table tr:nth-child(even) td{ background:var(--paper-dim); }
+/* .timing-table tr:nth-child(even) td{ background:var(--paper-dim); } */
 
 /* ---------- schedule cards ---------- */
 .schedule-grid{
